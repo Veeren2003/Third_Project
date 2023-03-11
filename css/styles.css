@@ -1,0 +1,226 @@
+body{
+    padding-bottom: 0%;
+    font-family: 'League Spartan', sans-serif;
+    margin: 0px;
+}
+.left-box{
+    border-radius: 10px;
+    background-color: hsl(300, 43%, 22%);
+    width: 330px;
+    height: 200px;
+    position: absolute;
+    left: 130px;
+    bottom: 80px;
+}
+.bottom{
+    position: absolute;
+    top: 80px;
+    right: 0px;
+}
+.colton{
+    float: left;
+    border-radius: 100px;
+    width: 40px;
+    position: relative;
+    left: 30px;
+    top: 30px;
+}
+.H{
+    font-size: 16px;
+    color: hsl(300, 24%, 96%);
+    position: relative;
+    left: 50px;
+    top: 20px;
+}
+.h{
+    font-size: 15px;
+    color: hsl(333, 80%, 67%);
+    position: relative;
+    top: 5px;
+    left: 90px;
+}
+.para1{
+    line-height: 20px;
+    color: hsl(300, 24%, 96%);
+    position: relative;
+    top: 15px;
+    left: 25px;
+
+}
+.middle-box{
+    padding-left: 15px;
+    border-radius: 10px;
+    background-color: hsl(300, 43%, 22%);
+    width: 330px;
+    height: 200px;
+    position: absolute;
+    left: 490px;
+    bottom: 62px;
+}
+.irene{
+    float: left;
+    border-radius: 100px;
+    width: 40px;
+    position: relative;
+    left: 30px;
+    top: 30px;
+}
+.H1{
+    font-size: 16px;
+    font-weight: 500;
+    color: hsl(300, 24%, 96%);
+    position: relative;
+    left: 50px;
+    top: 20px;
+}
+.h1{
+    font-weight: 400;
+    font-size: 15px;
+    color: hsl(333, 80%, 67%);
+    position: relative;
+    top: 5px;
+    left: 90px;
+}
+.para2{
+    line-height: 20px;
+    color: hsl(300, 24%, 96%);
+    position: relative;
+    top: 15px;
+    left: 25px;
+
+}
+.right-box{
+    border-radius: 10px;
+    background-color: hsl(300, 43%, 22%);
+    width: 330px;
+    height: 200px;
+    position: absolute;
+    bottom: 44px;
+    left: 865px;
+}
+.anne{
+    float: left;
+    border-radius: 100px;
+    width: 40px;
+    position: relative;
+    left: 30px;
+    top: 30px;
+}
+.H2{
+    font-size: 16px;
+    font-weight: 500;
+    color: hsl(300, 24%, 96%);
+    position: relative;
+    left: 50px;
+    top: 20px;
+}
+.h2{
+    font-weight: 400;
+    font-size: 15px;
+    color: hsl(333, 80%, 67%);
+    position: relative;
+    top: 5px;
+    left: 90px;
+}
+.para3{
+    line-height: 20px;
+    color: hsl(300, 24%, 96%);
+    position: relative;
+    top: 15px;
+    left: 25px;
+
+}
+.ten-thousand{
+    font-weight: 900;
+    font-size: 50px;
+    color: hsl(300, 43%, 22%);
+    position: absolute;
+    left: 130px;
+    top: 70px;
+}
+.top-para{
+    line-height: 20px;
+    color: grey;
+    position: absolute;
+    top: 250px;
+    left: 130px;
+}
+.first{
+    border-radius: 5px;
+    background-color: hsl(300, 24%, 96%);
+    width: 400px;
+    height: 50px;
+    position: absolute;
+    top: 250px;
+    right: 153px;
+}
+.first1{
+    float: left;
+    margin: 3px;
+    position: relative;
+    top: 15px;
+    left: 25px;
+}
+.first-1{
+    font-weight: 700;
+    color: hsl(300, 43%, 22%);
+    position: relative;
+    left: 45px;
+    top: 4px;
+}
+.second{
+    border-radius: 5px;
+    background-color: hsl(300, 24%, 96%);
+    width: 400px;
+    height: 50px;
+    position: absolute;
+    top: 185px;
+    right: 193px;
+}
+.second1{
+    float: left;
+    margin: 3px;
+    position: relative;
+    top: 15px;
+    left: 25px;
+}
+.second-1{
+    font-weight: 700;
+    color: hsl(300, 43%, 22%);
+    position: relative;
+    left: 45px;
+    top: 4px;
+}
+.third{
+    border-radius: 5px;
+    background-color: hsl(300, 24%, 96%);
+    width: 400px;
+    height: 50px;
+    position: absolute;
+    top: 120px;
+    right: 233px;
+}
+.third1{
+    float: left;
+    margin: 3px;
+    position: relative;
+    top: 15px;
+    left: 25px;
+}
+.third-1{
+    font-weight: 700;
+    color: hsl(300, 43%, 22%);
+    position: relative;
+    left: 45px;
+    top: 4px;
+}
+footer{
+
+    font-size: small;
+    margin: auto;
+    position: absolute;
+    top: 730px;
+    left: 490px;
+    bottom: 0px;
+
+}
